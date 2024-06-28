@@ -1,5 +1,6 @@
 # hola-mundo-express
 ## Local
+
 Clona el proyecto 
 
 ~~~bash  
@@ -15,9 +16,11 @@ Abre el proyecto
 Instala las dependencias  
 
 ~~~bash  
-npm install express
 
 npm install nodemon
+
+npm install express
+
 ~~~
 
 Inicia el servidor *(por defecto en puerto 3000)*
@@ -26,4 +29,14 @@ Inicia el servidor *(por defecto en puerto 3000)*
 npm run dev
 ~~~  
 
+
+Si agregas a la direccion **/saludo/[tunombre]** modificaras el contenido de la pagina. Por ejemplo:
+
+~~~bash  
+localhost/saludo/Lucas
+
+Salida: Hola Lucas
+~~~ 
+
 **Hecho por Lucas Cruceño**
+
