@@ -1,27 +1,29 @@
-By Lucas Cruceño
-
 # hola-mundo-express
-## Run Locally  
-Clone the project  
+## Local
+Clona el proyecto 
 
 ~~~bash  
-  git clone ssh link-to-project
+  git clone (ssh - link-to-proyect)
 ~~~
 
-Go to the project directory  
+Abre el proyecto 
 
 ~~~bash  
-  cd my-project
+  cd project
 ~~~
 
-Install dependencies  
+Instala las dependencias  
 
 ~~~bash  
-npm install
+npm install express
+
+npm install nodemon
 ~~~
 
-Start the server  
+Inicia el servidor *(por defecto en puerto 3000)*
 
 ~~~bash  
 npm run dev
 ~~~  
+
+**Hecho por Lucas Cruceño**
