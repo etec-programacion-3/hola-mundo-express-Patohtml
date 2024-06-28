@@ -33,7 +33,7 @@ npm run dev
 Si agregas a la direccion **/saludo/[tunombre]** modificaras el contenido de la pagina. Por ejemplo:
 
 ~~~bash  
-localhost/saludo/Lucas
+localhost:3000/saludo/Lucas
 
 Salida: Hola Lucas
 ~~~ 
